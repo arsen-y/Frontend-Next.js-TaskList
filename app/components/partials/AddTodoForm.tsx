@@ -44,6 +44,10 @@ const AddTodoForm = () => {
             variables: {
                 title,
                 description
+            },
+            update(cache: any, { data: {} }: any) {
+                cache.evict({ id: 'ROOT_QUERY', fieldName: 'getTasks' })
+                cache.gc()
             }
         })
     }

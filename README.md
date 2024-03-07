@@ -1,5 +1,26 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Frontend Next.js, app router, redux, jwt auth, graphql apollo client with caching/mod/refetch
+by Arseny Sokolovskiy
+
+Backend TaskList project: https://github.com/arsen-y/nestjs-typeorm-graphql-tasklist
+
+My Telegram: https://t.me/Arsenyy007
+
+![Screenshot](Screenshot_52.jpg)
+
+![Screenshot](Screenshot_62.jpg)
+
+![Screenshot](Screenshot_63.jpg)
+
+![Screenshot](Screenshot_64.jpg)
+
+![Screenshot](Screenshot_65.jpg)
+
+![Screenshot](Screenshot_66.jpg)
+
+![Screenshot](Screenshot_67.jpg)
+
 ## Getting Started
 
 First, run the development server:
